@@ -1,6 +1,7 @@
 <div align="center">
-
-# BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models
+# This repository is an implementation of BridgeVLA, the baseline for foveatedVLA research.
+  
+## BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models
 
 A 3D VLA framework that aligns the input and output within a shared 2D space in both pre-training and fine-tuning, enabling strong data efficiency and achieves impressive performance in both basic and generalization settings.
 
