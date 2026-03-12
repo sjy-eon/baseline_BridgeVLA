@@ -1,4 +1,5 @@
 <div align="center">
+
 # This repository is an implementation of BridgeVLA, the baseline for foveatedVLA research.
   
 ## BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models
